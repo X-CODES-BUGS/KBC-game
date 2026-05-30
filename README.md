@@ -1,2 +1,5 @@
 # KBC-game
 A python command-line game by Vihaan Saxena
+<br>
+I made an command-line name in python, it's a copy of Kaun Banega Crorepati(KBC) TV show but with a proper login and sign up system, data based of users data (to store there highest score, names and passwords),all 17 questions of KBC which are randomly picked from 1000+ unique question from the relevent tropics(used chatgpt and gemini to genrate them and then stored them in txt files), 4 life lines (which are 50:50, ask the expert, change the question and answer twice) and lastly added KBC's famous tune.
+<>
