@@ -6,6 +6,7 @@ I made an command-line name in python, it's a copy of Kaun Banega Crorepati(KBC)
 <br>
 <br>
 note:-
-<br><tab>1. The program is fully functional with proper logic but what concerns me is all the imported file have the local directory my pc so it can pose error as it couldn't find other files(their directory).
-<br><tab>2. The program has only used all major concept till object oriented programming (oop's concept).
-<br><tab>3. There are some irrelevant or repeated files so please ignore them. I wrote them if check the logic or remember the functions/statements usage.
+<br><tab>1. The main file (main.py) is named as KBC.py
+<br><tab>2. The program is fully functional with proper logic but what concerns me is all the imported file have the local directory my pc so it can pose error as it couldn't find other files(their directory).
+<br><tab>3. The program has only used all major concept till object oriented programming (oop's concept).
+<br><tab>4. There are some irrelevant or repeated files so please ignore them. I wrote them if check the logic or remember the functions/statements usage.
